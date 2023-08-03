@@ -1,1 +1,3 @@
-# clase_4_sala34
+- **_Working Directory_** :performing_arts:
+- **_Staging Area_** :joystick:
+- **_Git Repository (main branch)_** :sparkles:
