@@ -1,3 +1,3 @@
-- **_Working Directory_** :performing_arts:
-- **_Staging Area_** :joystick:
-- **_Git Repository (main branch)_** :sparkles:
+Working Directory :performing_arts:
+Staging Area :joystick:
+Git Repository (main branch) :sparkles:
